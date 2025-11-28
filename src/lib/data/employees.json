@@ -1,0 +1,64 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@company.com",
+      "department": "Engineering",
+      "employeeId": 1001,
+      "salary": 95000,
+      "startDate": "2022-03-15",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "id": "2",
+      "name": "Michael Chen",
+      "email": "michael.chen@company.com",
+      "department": "Marketing",
+      "employeeId": 1002,
+      "salary": 72000,
+      "startDate": "2023-01-10",
+      "position": "Marketing Manager"
+    },
+    {
+      "id": "3",
+      "name": "Emily Rodriguez",
+      "email": "emily.rodriguez@company.com",
+      "department": "Human Resources",
+      "employeeId": 1003,
+      "salary": 68000,
+      "startDate": "2021-11-20",
+      "position": "HR Specialist"
+    },
+    {
+      "id": "4",
+      "name": "David Kim",
+      "email": "david.kim@company.com",
+      "department": "Engineering",
+      "employeeId": 1004,
+      "salary": 110000,
+      "startDate": "2020-06-01",
+      "position": "Engineering Manager"
+    },
+    {
+      "id": "5",
+      "name": "Jessica Williams",
+      "email": "jessica.williams@company.com",
+      "department": "Sales",
+      "employeeId": 1005,
+      "salary": 85000,
+      "startDate": "2023-05-12",
+      "position": "Sales Director"
+    },
+    {
+      "id": "17643257201459eqqop2",
+      "name": "John Doe",
+      "email": "john.doe@company.com",
+      "department": "IT",
+      "employeeId": 1006,
+      "salary": 80000,
+      "startDate": "2024-01-15",
+      "position": "Developer"
+    }
+  ]
+}
